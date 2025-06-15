@@ -43,12 +43,6 @@ web_server/
 
 ---
 
-## Adding More Projects
-
-To add a new Go project, create a new subfolder in the root directory and add your Go source files there. Update this README with a brief description of your new project.
-
----
-
 ## License
 
 This repository is for educational purposes. See individual project folders for additional details.
